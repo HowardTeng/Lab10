@@ -64,7 +64,7 @@ public class Sorting {
      * Implement an in place merge algorithm that repeatedly picks the smaller of two numbers from
      * passed arrays and copies it to the returned array to produce a bigger sorted array
      *
-     * @param first the first array to merge
+     * @param first the first array to merge.
      * @param second the second array to merge
      * @return the sorted array, or null on failure
      */
